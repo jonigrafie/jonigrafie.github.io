@@ -27,6 +27,9 @@ html {
   text-align: center;
 }
 
+.mail {
+  color: #ffc600;
+}
 .logo {
   margin-top: 10%;
   margin-bottom: 5%;
@@ -41,6 +44,12 @@ html {
 
 .quote {
   font-size: 1em;
+}
+
+.disclaimer {
+  font-size: 1.4em;
+  font-weight: bold;
+  vertical-align: bottom;
 }
 
 /*
